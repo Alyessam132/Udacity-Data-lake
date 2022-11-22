@@ -54,9 +54,9 @@ After creating the database the ETL pipeline consists of:
 
 
 - etl.py: is to 
-	-get the data from s3 bucket
-	-create the fact and dimensions tables and load the data into them
-	-load the tables data into s3
+	- Get the data from s3 bucket
+	- Create the fact and dimensions tables and load the data into them
+	- Load the tables data into s3
 
 - dl.cfg: has AWS Access Keys
 
